@@ -259,7 +259,7 @@ def grid_search(score, start_offset, end_offset, step):
 
 
 
-dir_path = 'tests/test_voice_sep/'
+dir_path = 'tests/'
 separate_voices_dir(dir_path, extensions='.mei')
 
 
